@@ -3,13 +3,18 @@
 ## About Me
 - SW Developer
 - HW Developer
+- WebDesigner, coder
 - 3D Printing enthusiast / designer
 - Arduino fan
 - Cosplay fan
 - Studied Electro-engineering
 - SVG designer
+- Minis painter
+- DnD player
 - Photographer ([portfolio](https://portfolio.nejedniko.cz))
+- Volkswagen fan and owner (I modify my old G4 1.9TDI by myself as a hobby)
 - And you can listen to my music on my [youtube](https://www.youtube.com/@NejedNiko) and [spotify](https://open.spotify.com/artist/7zW9XmJ2Bpg6vb7TVzSPrg?si=tzkLc7tcQY2n6w_cSxErdw)
+- I have too many hobbies on my hands
 
 ## Languages and tools
 ### Languages and Frameworks
