@@ -3,19 +3,21 @@
 ## About Me
 - SW Developer
 - HW Developer
-- 3D Printing enthusiast
+- 3D Printing enthusiast / designer
 - Arduino fan
 - Cosplay fan
 - Studied Electro-engineering
 - SVG designer
-- Photographer
+- Photographer ([portfolio](https://portfolio.nejedniko.cz))
+- And you can listen to my music on my [youtube](https://www.youtube.com/@NejedNiko) and [spotify](https://open.spotify.com/artist/7zW9XmJ2Bpg6vb7TVzSPrg?si=tzkLc7tcQY2n6w_cSxErdw)
 
 ## Languages and tools I use
 ### Languages and Frameworks
-![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,gamemakerlanguage)
+![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,dart,gml)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,inkscape,photoshop,windows,freecad,mssql,opera)
+![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,photoshop,windows)
+Also using Eagle, Opera, FreeCAD, InkScape, lots others and some of my own tools
 
 <!--
 ## Github statistics
