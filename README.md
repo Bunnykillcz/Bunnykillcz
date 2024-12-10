@@ -15,12 +15,12 @@
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio)
 
+<!--
 ## Github statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=motirek&show_icons=true&theme=dracula)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motirek&theme=dracula)
 
-<!--
 **Bunnykillcz/Bunnykillcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
