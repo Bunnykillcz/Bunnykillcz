@@ -11,7 +11,7 @@
 - Photographer ([portfolio](https://portfolio.nejedniko.cz))
 - And you can listen to my music on my [youtube](https://www.youtube.com/@NejedNiko) and [spotify](https://open.spotify.com/artist/7zW9XmJ2Bpg6vb7TVzSPrg?si=tzkLc7tcQY2n6w_cSxErdw)
 
-## Languages and tools I use
+## Languages and tools
 ### Languages and Frameworks
 ![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,dart,gml)
 
