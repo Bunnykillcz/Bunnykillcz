@@ -16,7 +16,7 @@
 ![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,dart,gml)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,photoshop,windows)
+![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,photoshop,windows)  
 Also using Eagle, Opera, FreeCAD, InkScape, lots others and some of my own tools
 
 <!--
