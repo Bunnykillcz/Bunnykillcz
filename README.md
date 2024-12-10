@@ -1,4 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Greetings+Fellow+Humans;I+am+Miroslav+Mad%C4%9Bra)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com/demo/?font=Open+Sans&weight=600&size=16&color=3DAFF7&center=true&vCenter=true&lines=Welcome%2C+traveller+to+my+GIT;Don't+forget+to+visit+NejedNiko.cz))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?font=Open+Sans&weight=600&size=16&color=3DAFF7&center=true&vCenter=true&lines=Welcome%2C+traveller+to+my+GIT;Don't+forget+to+visit+NejedNiko.cz))
 
 ## About Me
 - SW Developer
