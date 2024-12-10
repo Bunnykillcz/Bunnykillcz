@@ -7,13 +7,15 @@
 - Arduino fan
 - Cosplay fan
 - Studied Electro-engineering
+- SVG designer
+- Photographer
 
 ## Languages and tools I use
 ### Languages and Frameworks
-![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,wpf,dotnet,bash,mysql,gml,)
+![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,gamemakerlanguage)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio)
+![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,inkscape,photoshop,windows,freecad,mssql,opera)
 
 <!--
 ## Github statistics
