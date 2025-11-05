@@ -26,7 +26,6 @@ Also using Eagle, Opera, FreeCAD, InkScape, lots others and some of my own tools
 
 ## Github statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Bunnykillcz&show_icons=true&theme=dracula)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnykillcz&theme=dracula)
 
 <!--
