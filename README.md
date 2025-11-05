@@ -18,7 +18,7 @@
 
 ## Languages and tools
 ### Languages and Frameworks
-![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,dotnet,bash,mysql,css,html,php,dart,python,gml)
+![Languages and Frameworks](https://skillicons.dev/icons?i=cs,c,wpf,dotnet,bash,mysql,css,html,php,dart,python,gml)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,github,git,visualstudio,gamemakerstudio,photoshop,windows)  
